@@ -1,5 +1,5 @@
 @import url(fontawesome-all.min.css);
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,700,900");
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300&display=swap');
 
 /*
 	Phantom by HTML5 UP
@@ -117,7 +117,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #585858;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family: "Jost", sans-serif;
 		font-size: 16pt;
 		font-weight: 300;
 		line-height: 1.75;
@@ -171,7 +171,6 @@ input, select, textarea {
 		font-weight: 700;
 		line-height: 1.3;
 		margin: 0 0 1em 0;
-		letter-spacing: -0.035em;
 	}
 
 		h1 a {
@@ -2829,7 +2828,7 @@ input, select, textarea {
 /* Header */
 
 	#header {
-		padding: 8em 0 0.1em 0 ;
+		padding: 3em 0 0.1em 0 ;
 	}
 
 		#header .logo {
@@ -2859,48 +2858,43 @@ input, select, textarea {
 					height: 2em;
 				}
 
-		#header nav {
-			position: fixed;
-			right: 2em;
-			top: 2em;
-			z-index: 10000;
+		#header .nav {
+			float: right;
 		}
 
-			#header nav ul {
-				display: -moz-flex;
-				display: -webkit-flex;
-				display: -ms-flex;
-				display: flex;
-				-moz-align-items: center;
-				-webkit-align-items: center;
-				-ms-align-items: center;
-				align-items: center;
-				list-style: none;
-				margin: 0;
-				padding: 0;
+			#header .nav ul {
+				position: relative;
+				right: 10px;
+				bottom: 5px;
+				text-decoration: none;
+				margin: 0 10 0 0;
+				color: hsl(0, 0%, 67%);
+				border-top: 5px;
 			}
 
-				#header nav ul li {
-					display: block;
+				#header .nav ul li {
+					list-style-type: none;
+					margin: 0;
 					padding: 0;
+					float: left;
+					text-decoration: none;
+					color: hsl(0, 0%, 67%);
 				}
 
-					#header nav ul li a {
+					#header .nav ul li a {
+						font-weight: 400;
+						font-style: normal;
+						color: hsl(0, 0%, 67%);
+						text-align: center;
+						padding: 8px 13px;
+						text-decoration: none;
 						display: block;
-						position: relative;
-						height: 3em;
-						line-height: 3em;
-						padding: 0 1.5em;
-						background-color: rgba(255, 255, 255, 0.5);
-						border-radius: 4px;
-						border: 0;
-						font-size: 0.8em;
-						font-weight: 900;
-						letter-spacing: 0.35em;
-						text-transform: uppercase;
+						list-style-type: none;
+						font-size: 1rem;
+						border-bottom: none;
 					}
 
-					#header nav ul li a[href="#menu"] {
+					#header .nav ul li a[href="#menu"] {
 						-webkit-tap-highlight-color: transparent;
 						width: 4em;
 						text-indent: 4em;
@@ -2910,7 +2904,7 @@ input, select, textarea {
 						white-space: nowrap;
 					}
 
-						#header nav ul li a[href="#menu"]:before, #header nav ul li a[href="#menu"]:after {
+						#header .nav ul li a[href="#menu"]:before, #header .nav ul li a[href="#menu"]:after {
 							-moz-transition: opacity 0.2s ease;
 							-webkit-transition: opacity 0.2s ease;
 							-ms-transition: opacity 0.2s ease;

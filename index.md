@@ -5,4 +5,10 @@
 layout: home
 ---
 
-# Hello! I'm Lauren ✌🏼
+# Hello! I'm Lauren
+
+## About Me
+
+## Past Experience
+
+## Projects

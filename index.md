@@ -4,7 +4,7 @@ title: About Me
 order: 1
 ---
 
-Hello, I'm Lauren! 👋🏼 I am a recent graduate of the University of British Columbia's Master of Data Science program. Passionate about harnessing AI to make meaningful impacts, I have been involved in various projects as a ML developer across the domains of healthcare, transcriptomics and mining. I am currently seeking new grad opportunities in machine learning engineering and data science for Winter 2024.
+Hello, I'm Lauren! 👋🏼 I am a recent graduate of the University of British Columbia's Master of Data Science program. Passionate about harnessing AI to make meaningful impacts, I have been involved in projects as a ML developer in the fields of healthcare, transcriptomics and mining. I am currently seeking new grad opportunities in machine learning engineering and data science for Winter 2024.
 
 In my spare time, you'll find me catching up with the latest cinema, gushing over DIY manicures and researching new restaurants.
 

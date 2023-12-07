@@ -33,7 +33,7 @@ layout: base
         </h3>
         {% if post.subtitle %}
           <h4 class="post-subtitle">{{ post.subtitle }}</h4>
-        {% else %}
+        {% endif %}
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}

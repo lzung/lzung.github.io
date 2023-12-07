@@ -30,7 +30,11 @@ layout: base
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
+          {% if post.subtitle %}
+            <h4 class="post-subtitle">{{ post.subtitle }}</h4>
+          {% else %}
         </h3>
+        
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}

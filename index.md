@@ -8,10 +8,12 @@ Hello, I'm Lauren! 👋🏼 I am a recent graduate of the University of British 
 
 ## Past Experience
 
+- Graduate Academic Assistant, **UBC MDS Admissions Committee** (Nov 2022 - Jun 2023)
 - Data Science Intern, **Rio Tinto Exploration** (Apr 2023 - June 2023)
 - Graduate/Undergraduate Teaching Assistant, **University of British Columbia** (May 2020 - June 2023)
 - Junior Data Scientist, **Vancouver Coastal Health Research Institute & UBC Hospital - Digital Emergency Medicine Lab** (May 2021 - Sept 2022)
 - Research Intern, **Djavad Mowafaghian Centre for Brain Health (Cembrowski Lab)** (Sept 2021 - May 2022)
+- Administrative Research Assistant, **BC Children's Hospital Research Institute (Panenka Lab)** (Aug 2020 - May 2021)
 
 ## Education
 - Master of Data Science, **University of British Columbia - Vancouver** (Sept 2022 - Nov 2023)

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Heart Failure Prediction - Supporting clinical decisions for the health and wellness of cardiovascular disease patients"
+title: "Heart Failure Prediction"
+subtitle: "Supporting clinical decisions for the health and wellness of cardiovascular disease patients"
 categories: python, sklearn, machine-learning
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Cell-Type Composition of the Anterior Cingulate and Retrosplenial Cortex"
+subtitle: "Canonical correlation analysis of hippocampal mRNA counts and slide images"
 categories: R, dimensionality-reduction, clustering
 ---
 

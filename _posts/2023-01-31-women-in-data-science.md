@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Exploratory Analysis on Women in Data Science (2022)"
+subtitle: "Extracting insights on the state of the data industry, with aims to highlight areas for improvement and encourage women to join the movement"
 categories: python, visualization, altair
 ---
 

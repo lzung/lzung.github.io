@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Predicting Airbnb reviews per Month"
+title: "Airbnb Review Regression"
+subtitle: "Predicting the number of reviews per month for Airbnb listings using regression models"
 categories: python, sklearn, regression
 ---
 

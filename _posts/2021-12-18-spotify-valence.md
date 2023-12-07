@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "How Spotify Song Attributes Affect Emotional Perception"
+title: "Spotify Song Attributes on Emotional Perception"
+subtitle: "Analyzing how different sound qualities impact the valence (positiveness) of Spotify tracks"
 categories: R, statistcal-modelling
 ---
 

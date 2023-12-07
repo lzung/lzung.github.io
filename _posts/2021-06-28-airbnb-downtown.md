@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Airbnb Listing Prices in Downtown Vancouver vs. Downtown Toronto"
+subtitle: "Comparing statistics across Airbnbs in two major Canadian cities"
 categories: R, statistical-inference
 ---
 

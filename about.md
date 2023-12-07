@@ -1,10 +1,9 @@
 ---
 layout: about
 title: About Me
-permalink: /about/
 ---
 
-Hello, I'm Lauren! I am a recent graduate of the University of British Columbia's Master of Data Science program. I am currently seeking new grad opportunities for Winter 2024.
+Hello, I'm Lauren! 👋🏼 I am a recent graduate of the University of British Columbia's Master of Data Science program. I am currently seeking new grad opportunities for Winter 2024.
 
 ## Past Experience
 

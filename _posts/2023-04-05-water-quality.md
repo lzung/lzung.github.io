@@ -2,6 +2,42 @@
 layout: post
 title: "NepTune"
 subtitle: "Predicting water quality across households in India"
+image: "/images/bizinnovate.png"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Github & Kaggle
+https://github.com/lzung/bizinnovate_2023
+https://www.kaggle.com/competitions/bizinnovate-2023/overview
+
+You can view the submitted presentation [here](https://drive.google.com/file/d/1m1cFU4MLSvqx4EJpYStJ7zTyobb8C_YR/view).
+
+## Technique Overview
+- Python
+    - PyTorch (CNN)
+    - sklearn (LGBM, XGBoost, KNN, K-means)
+    - pandas
+    - geopandas
+    - hyperopt
+    - shap
+    - matplotlib
+- Spatial Modelling (Kriging)
+
+![Pipeline](/images/bizinnovate_pipe.png)
+
+## Motivation
+
+Progress toward the United Nations Sustainable Development Goals (SDGs) has been hindered by a lack of data on key environmental and socioeconomic indicators, which historically have come from ground surveys with sparse temporal and spatial coverage. Recent advances in machine learning have made it possible to utilize abundant, frequently-updated, and globally available data, such as from satellites or social media, to provide insights into progress toward SDGs.
+
+## Goal
+
+The goal of this competition was to gain insight toward the SDG of clean water. The challenge was to estimate the water quality index of a given region using satellite images. The data will provide the water quality index of households, which is ranked on a 1-5 scale. Five is the “highest quality”, while one is the lowest.
+
+This dataset and the motivation behind it is based on the work of SustainBench, where more details can be found [1](#references).
+
+## Overview
+
+
+
+## References
+
+C. Yeh, C. Meng, S. Wang, A. Driscoll, E. Rozi, P. Liu, J. Lee, M. Burke, D. Lobell, and S. Ermon, “SustainBench: Benchmarks for Monitoring the Sustainable Development Goals with Machine Learning,” in Thirty-fifth Conference on Neural Information Processing Systems, Datasets and Benchmarks Track (Round 2), Dec. 2021. [Online]. Available: https://openreview.net/forum?id=5HR3vCylqD.

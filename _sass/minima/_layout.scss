@@ -339,3 +339,11 @@
       width: calc(50% - (#{$spacing-unit} / 2));
     }
   }
+
+  .blog-roll-image {
+    width: 75px;
+    height: 75px;
+    object-fit: cover;
+    float: left;
+    margin-left: 1em;
+  }

@@ -13,6 +13,7 @@ image: "/images/wids/education_level.png"
     - altair
     - pandas
     - matplotlib
+- Exploratory Data Analysis
 - Statistics
 - Data Visualization (Interactive)
 
@@ -37,28 +38,28 @@ In Figure 1, we see that less than 23% of survey respondents identified as a mem
 
 ## International Reach
 ![International Reach](/images/wids/intl_reach.png)
-{.image-caption}
+{:.image-caption}
 *Figure 2. Top 10 countries for men and women by number of respondents, along with a map of all respective locations that were reported.*  
 
 The majority of Kagglers currently reside in India, followed by the United States. We see that among the top 10 countries, there is not much variation in location by gender, however Turkey and Russia seem to have more female users than other nations. We can see that there is a fairly global interest in data science with individuals using Kaggle from around the world, which I only expect will continue to expand in the coming years.
 
 ## Academic History
 ![Education Level](/images/wids/education_level.png)
-{.image-caption}
+{:.image-caption}
 *Figure 3. Education level distributions as well as research-affinity for men and women. Research involving the use of ML as a tool was considered 'applied' and research that aimed to advance a novel ML methods was considered 'theoretical'. All percentages are with respect to each gender.*  
 
 Above, we see that the relationships between education and gender have similar trends; most respondents have completed at least a bachelor's degree, if not graduate studies. Interestingly, there are more women on Kaggle who are current students compared to men. This could be indicative of an increased interest in pursuing data science for women during their studies. Moreover, 20.3% of women whom have conducted research did so by advancing a novel ML method, which was higher than the relative proportion of men. It could be that women in academia show more enthusiasm towards the development of ML technologies, or perhaps that there have been fewer opportunities for women to solely apply ML techniques in their research, but there are too many confounds to tell.
 
 ## Technical Experience
 ![Technical Experience](/images/wids/exp_prop.png)
-{.image-caption}
+{:.image-caption}
 *Figure 4. Normalized proportions of men and women by years of experience with programming and ML.*  
 
 On average, male respondents were more experienced with programming and ML compared to females. Considering the relatively recent emergence of the field, it is not surprising to see that the many people are in the early stages of their ML journeys. Over 35% of women reported having used ML methods for more than one year, which is about 10% less than the equivalent metric for men.
 
 ## Work Experience
 ![Work Experience](/images/wids/work_exp.png)
-{.image-caption}
+{:.image-caption}
 *Figure 5. Annual compensation, title and industry distributions for men and women. In the compensation graph (top), be mindful that the salary ranges are not consistent ($90,000–99,999 to $100,000–124,999 for example).*
 
 Over 21% of women who completed the survey reported making less than $1,000 annually compared to about 12% of men. In addition, around 13% of women have a salary over $100,000 opposed to close to 18% of men. The scope of salaries does seem a bit alarming, with roughly 50% of both genders reporting making less than the [average living wage for a single adult in the US](https://justcapital.com/reports/living-wage-guide-for-business-just-jobs-explained/), though we should keep in mind how the cost of living varies around the world and how many Kaggle users are also students.  

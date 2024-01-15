@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "YouTube Trends"
-subtitle: "Dashboard for visualizing YouTube channel metrics, including sentiment scores and trends over time"
+subtitle: "Dashboards for visualizing YouTube channel metrics, including sentiment scores and trends over time"
 image: "/images/youtube_dashboards/youtube_db.png"
 ---
 

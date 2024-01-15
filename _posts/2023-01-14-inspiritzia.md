@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Inspiritzia"
-subtitle: "A social platform that enables users to upload fit pics that will help others to discover new styles and items"
+subtitle: "A social platform that enables users to share outfit pictures, supported by a recommender system to will help others discover new styles and items"
 image: '/images/inspiritzia/logo.jpeg'
 ---
 ## Code Repository

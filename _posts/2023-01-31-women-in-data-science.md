@@ -2,7 +2,7 @@
 layout: post
 title: "Exploratory Analysis on Women in Data Science (2022)"
 subtitle: "Extracting insights on the state of the data industry, with aims to highlight areas for improvement and encourage women to join the movement"
-image: "/images/wids/education_level.png"
+image: "/images/wids/exp_prop.png"
 ---
 ## Code Repository
 - [Github](https://github.com/lzung/wids-2022)

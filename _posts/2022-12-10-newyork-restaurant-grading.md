@@ -57,9 +57,9 @@ Besides this main research question, our analysis would also like to address som
 - What words in a violation description contribute most to whether a restaurant is graded A or B/C?
 
 ## Data
-The data set that we are using in our analysis for the restaurant grading, DOHMH New York City Restaurant Inspection Results, is sourced from NYC OpenData Portal. It was obtained from the tidytuesday [@tidytuesday] [repository](https://github.com/rfordatascience/tidytuesday/tree/master/data/2018/2018-12-11) by Thomas Mock. The original data set can be found [here](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j/data).
+The data set that we are using in our analysis for the restaurant grading, DOHMH New York City Restaurant Inspection Results, is sourced from NYC OpenData Portal. It was obtained from the tidytuesday [repository](https://github.com/rfordatascience/tidytuesday/tree/master/data/2018/2018-12-11) by Thomas Mock (2022). The original data set can be found [here](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j/data).
 
-## Summary
+### Summary
 The data includes all of the violation citation from the restaurant inspections held in New York City from 2012 to 2018.
 Each row represents a restaurant that has undergone a health inspection which has the information about each establishment including the restaurant name, phone number, location (borough, building number, street, zip code), cuisine type, and also the details about the inspection itself which includes date, violation code, description, whether there were any violations cited, whether they were critical, etc. The restaurants may receive an official grading of A, B, or C; alternatively, they may receive a Z or P for an evaluation that is still pending. A complete dictionary of the data can be found [here](https://github.com/rfordatascience/tidytuesday/tree/master/data/2018/2018-12-11#data-dictionary).
 

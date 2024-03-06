@@ -24,7 +24,9 @@ image: "/images/colourpycker/donut.png"
     - CI/CD
     - Versioning
 
-![Demo](/images/colourpycker/colourpycker_demo.mov)
+## Walkthrough
+
+![Demo](https://lzung.github.io/images/colourpycker/colourpycker_demo.mov)
 
 You can find examples [here](https://ubc-mds.github.io/colourpickr/articles/colourpickr-vignette.html) and [here](https://github.com/UBC-MDS/colourpycker/blob/main/docs/example.ipynb).
 

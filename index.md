@@ -4,14 +4,14 @@ title: About Me
 order: 1
 ---
 
-Hello, I'm Lauren! 👋🏼 I am a recent graduate of the University of British Columbia's Master of Data Science program. Passionate about harnessing AI to make meaningful impacts, I have been involved in projects as a ML developer in the fields of healthcare, transcriptomics and mining. I am currently seeking new grad opportunities in machine learning engineering and data science for Winter 2024.
+Hello, I'm Lauren! 👋🏼 Passionate about harnessing AI to make meaningful impacts, I have been involved in projects as a ML developer in the fields of finance, healthcare, transcriptomics and mining. I am currently working as a Data Engineer at Borealis AI.
 
 In my spare time, you'll find me catching up with the latest cinema 📽️, gushing over DIY manicures 💅🏼 and researching new restaurants 🍜.
 
 ## Work/Internship Experience
-
-- Graduate Academic Assistant, **UBC MDS Admissions Committee** (Nov 2022 - Jun 2023)
+- Data Engineer, **Borealis AI (RBC)** (Mar 2024 - Present)
 - Data Science Intern, **Rio Tinto Exploration** (Apr 2023 - June 2023)
+- Graduate Academic Assistant, **UBC MDS Admissions Committee** (Nov 2022 - Jun 2023)
 
 ## Research Experience
 
